@@ -1,4 +1,4 @@
-name: somethinggood
+name: Something Good
 favicon: null
 layout_spectrum: 0.3109341515228152
 typography_spectrum: 0.7985862742643803
@@ -17,11 +17,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#9D2D3C'
-    - '#DDE4DD'
-    - '#BCAB47'
-    - '#6B574B'
-    - '#160600'
+    - '#dbedfa'
+    - '#6ebbf3'
+    - '#158aaf'
+    - '#021c3b'
+    - '#534f5d'
   brandStrength: 0.6118340995162725
   lightness: 0.22267665062099695
   saturation: 0.04708438692614436
